@@ -16,16 +16,16 @@
 - Grid system, [see example](http://usman.it/themes/charisma/grid.html).
 - Charts, including, pie, stack, flot, realtime etc.
 - Data tables
-- Widget boxes, collapsible, closable, [see example](http://usman.it/themes/charisma/grid.html).
+- Widget boxes, collapsible, closable [see example](http://usman.it/themes/charisma/grid.html).
 - Photo gallery [see example](http://usman.it/themes/charisma/gallery.html).
 - Ajaxified menus
-- Full calendar, monthly weekly, daily, with todo list.
+- Full calendar, monthly weekly, daily, with to-do list.
 - Custom error page
 - Auto active link detection and much more.
 
 
 ## Credits
-Without these open source software Charisma woudn't have been possible:
+Without these open source software Charisma wouldn't have been possible:
 
  - [Twitter Bootstrap](http://getbootstrap.com/)
  - [jQuery](http://jquery.com)
